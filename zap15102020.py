@@ -71,7 +71,6 @@ for url2 in urls:
     else:
         continue
 
-
 res.to_csv('bank.csv', sep=';', encoding='cp1251')
 
 
